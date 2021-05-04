@@ -1,0 +1,22 @@
+.sort-button{
+
+    width: 200px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 50px;
+    display:block;
+}
+.my-chart{
+    align-items: flex-end;
+    height: 800px;
+    display: flex;
+    margin-bottom : 50px;
+}
+.elem{
+    background-color: turquoise;
+    width: 10px;
+    margin: 1px;
+    margin-bottom: 0px;
+    
+}
